@@ -1,0 +1,5 @@
+name = Norris Memes
+description = Makes dank memes
+package = Norris
+core = 7.x
+files[] = meme.module
