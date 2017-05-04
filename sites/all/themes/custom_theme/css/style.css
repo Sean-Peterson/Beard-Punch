@@ -1,0 +1,24 @@
+body{
+    color: red;
+}
+
+/*img{
+    height: 200px;
+    width: 200px;
+}*/
+
+.col-1{
+    height: 350px;
+    width: 350px;
+    color: red;
+}
+.col-2{
+    height: 350px;
+    width: 350px;
+    color: blue;
+}
+
+.views-field-field-url img {
+    height: 200px;
+    width: 200px;
+}
